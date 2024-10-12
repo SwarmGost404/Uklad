@@ -84,7 +84,7 @@ const render = () => {
             <div class="name">${ivent[1].name} </div>
             <div class="iventer">${ivent[1].iventer}</div>
         `;
-    card[2git add .a].innerHTML = `
+    card[2].innerHTML = `
             <div class="data">${ivent[2].day}<p>${ivent[2].week}</p></div> 
             <div class="time">${ivent[2].time}</div>
             <div class="map">${ivent[2].map} </div>
